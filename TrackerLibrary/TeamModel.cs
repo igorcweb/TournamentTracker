@@ -10,4 +10,3 @@ namespace TrackerLibrary
     public string TeamName { get; set; }  
   }
 }
-`
