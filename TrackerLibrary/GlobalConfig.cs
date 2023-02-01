@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using TrackerLibrary.DataAccess;
 
 namespace TrackerLibrary
 {
@@ -14,7 +15,7 @@ namespace TrackerLibrary
       {
         // TODO - Set up the SQL connector properly
         SqlConnector sql = new SqlConnector();
-        Connections.Add(sql);
+        Connections.Add((IDataConnection)sql);
       }
       if (textFiles)
       {

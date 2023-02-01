@@ -1,7 +1,6 @@
 C:\Users\igor.chernyshev\source\repos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.deps.json
 C:\Users\igor.chernyshev\source\repos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.dll
 C:\Users\igor.chernyshev\source\repos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.pdb
-C:\Users\igor.chernyshev\source\repos\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csprojAssemblyReference.cache
 C:\Users\igor.chernyshev\source\repos\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfoInputs.cache
 C:\Users\igor.chernyshev\source\repos\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfo.cs
 C:\Users\igor.chernyshev\source\repos\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csproj.CoreCompileInputs.cache
